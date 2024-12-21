@@ -61,4 +61,4 @@ const eliferrob = {
 </p>
 -->
 
-*--> Read this document in other language:* [Español](https://github.com/eliferrob/eliferrob/main/README_es.md)
+*--> Read this document in other language:* [Español](https://github.com/eliferrob/eliferrob/blob/main/README_es.md)
