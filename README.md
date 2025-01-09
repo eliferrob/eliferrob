@@ -19,8 +19,9 @@ const eliferrob = {
 
 ### 🌱 Things I am currently working on
 
-- Finishing my "Cybersecurity in IT Environments" Master Degree
-- Taking online courses on Malware Analysis 
+- Finish my "Cybersecurity in IT Environments" specialization course
+- Expand my knowledge in Malware Analysis (how to use Volatility 2 & 3)
+- Create python scripts to automate tasks
 <!--
 - Business practices on [name](link) 🚀 *coming soon* 
 
