@@ -48,8 +48,8 @@ const eliferrob = {
 ### ⚙️ GitHub Analytics
 
   <a href="https://github.com/eliferrob">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliferrob&show_icons=true&theme=radical&custom_title=My%20GitHub%20Stats&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eliferrob&layout=compact&langs_count=3&theme=radical"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eliferrob&show_icons=true&theme=radical&custom_title=My%20GitHub%20Stats&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eliferrob&layout=compact&langs_count=3&theme=radical"/>
   </a>
 </p>
 
