@@ -7,7 +7,6 @@
 
 ¡Bienvenido a mi página de Github! ~Normalmente~ subo cosas.
 
-
 ```js
 const eliferrob = {
   titulo: "Especialista en Ciberseguridad",
@@ -15,7 +14,6 @@ const eliferrob = {
   skills: ["Respuesta a Incidentes","Bastionado de Redes","Análisis Forense","Concienciación en Ciebrseguridad"],
 }
 ```
-
 
 ### 🌱 Cosas en las que estoy trabajando actualmente
 
@@ -35,6 +33,7 @@ const eliferrob = {
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
 ![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=SQLServer)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
@@ -47,19 +46,11 @@ const eliferrob = {
 
 ### ⚙️ Estadísticas de GitHub
 
-
 <p align="center">
   <a href="https://github.com/eliferrob">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliferrob&show_icons=true&theme=radical&custom_title=Mis%20Estadísticas%20de%20GitHub&include_all_commits=true&count_private=true"/>
-  </a>
-</p>
-
-<!--
-  <a href="https://github.com/eliferrob">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliferrob&show_icons=true&theme=radical&custom_title=My%20GitHub%20Stats&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eliferrob&layout=compact&langs_count=8&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eliferrob&layout=compact&langs_count=6&theme=radical"/>
   </a>
 </p>
--->
 
 *--> Leer este documento en otro idioma: [English](https://github.com/eliferrob/eliferrob/blob/main/README.md)*
