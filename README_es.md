@@ -18,8 +18,8 @@ const eliferrob = {
 ### 🌱 Cosas en las que estoy trabajando actualmente
 
 - Terminar mi especialización en "Ciberseguridad en Entornos de las Tecnologías de la Información"
-- Ampliar mis conocimientos sobre Análisis de Malware (uso de Volatility 2 y 3)
-- Crear scripts en python para automatizar tareas
+- Ampliar mis conocimientos sobre Pentesting Web
+- Crear scripts para automatizar tareas
 <!--
 - Business practices on [name](link) 🚀 *coming soon* 
 
