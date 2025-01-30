@@ -20,8 +20,8 @@ const eliferrob = {
 ### 🌱 Things I am currently working on
 
 - Finish my "Cybersecurity in IT Environments" specialization course
-- Expand my knowledge in Malware Analysis (how to use Volatility 2 & 3)
-- Create python scripts to automate tasks
+- Expand my knowledge in Pentesting Web
+- Create scripts to automate tasks
 <!--
 - Business practices on [name](link) 🚀 *coming soon* 
 
