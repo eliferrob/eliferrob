@@ -22,12 +22,12 @@ const eliferrob = {
 
 ### 💼 Experiencia
 
--  Prácticas de empresa en Accenture como *Analista SOC N1* 🚀
+-  Prácticas de empresa en Accenture como *Analista SOC N1*
 -  Prácticas de empresa en E-ASY como *Técnico de Soporte*
 
 ### 💻 Proyectos 
 
-- Crear mi GitBook personal --> Migrar mis repositorios
+- Crear mi GitBook personal --> Migrar mis repositorios 🚀
 
 ### 🔎 Tecnologías SOC
 
