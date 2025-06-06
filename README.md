@@ -30,18 +30,29 @@ const eliferrob = {
 
 - Create my personal GitBook  --> Migrate my repos
 
+### 🔎 SOC Technologies
+
+![ServiceNow](https://img.shields.io/badge/-Servicenow-05122A?style=flat&logo=Servicenow)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=Jira)&nbsp;
+![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=PowerBI)&nbsp;
+![Splunk](https://img.shields.io/badge/-splunk-05122A?style=flat&logo=splunk)&nbsp;
+![Azure Sentinel](https://img.shields.io/badge/-Azure%20Sentinel-05122A?style=flat&logo=azuresentinel)&nbsp;
+![Qualys](https://img.shields.io/badge/-Qualys-05122A?style=flat&logo=Qualys)&nbsp;
+
 ### 🛠 Programming Languages and Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=academia)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
 ![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell)&nbsp;
+![Batch](https://img.shields.io/badge/-Batch-05122A?style=flat&logo=Batch)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=SQLServer)&nbsp;
+![KQL](https://img.shields.io/badge/-KQL-05122A?style=flat&logo=kql)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=academia)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-05122A?style=flat&logo=docker)&nbsp;
