@@ -12,21 +12,23 @@ Welcome to my Github page! I ~usually~ upload things here.
 const eliferrob = {
   title: "Cybersecurity Specialist",
   studies: "Network Computer Systems Administration",
-  skills: ["Incident Response","Network Defense","Forensics","Security Awareness Training"],
+  skills: ["Pentesting","SOC","Incident Response","Network Hardening","Forensics"],
 }
 ```
 
-
 ### 🌱 Things I am currently working on
 
-- Finish my "Cybersecurity in IT Environments" specialization course
-- Expand my knowledge in Pentesting Web
-- Create scripts to automate tasks
-<!--
-- Business practices on [name](link) 🚀 *coming soon* 
+- Obtain my eJPTv2 certification
+- Keep exploiting VMs in CTFs
 
-💻 Projects 
--->
+### 💼 Experience
+
+-  Business practices on Accenture as *SOC Analyst L1* 🚀
+-  Business practices on E-ASY as *Helpdesk*
+
+### 💻 Projects 
+
+- Create my personal GitBook  --> Migrate my repos
 
 ### 🛠 Programming Languages and Tools
 
