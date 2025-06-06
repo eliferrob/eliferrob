@@ -23,12 +23,12 @@ const eliferrob = {
 
 ### 💼 Experience
 
--  Business practices on Accenture as *SOC Analyst L1* 🚀
+-  Business practices on Accenture as *SOC Analyst L1*
 -  Business practices on E-ASY as *Helpdesk*
 
 ### 💻 Projects 
 
-- Create my personal GitBook  --> Migrate my repos
+- Create my personal GitBook --> Migrate my repos 🚀
 
 ### 🔎 SOC Technologies
 
