@@ -34,7 +34,7 @@ const eliferrob = {
 ![ServiceNow](https://img.shields.io/badge/-Servicenow-05122A?style=flat&logo=Servicenow)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=Jira)&nbsp;
 ![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=PowerBI)&nbsp;
-![Splunk](https://img.shields.io/badge/-splunk-05122A?style=flat&logo=splunk)&nbsp;
+![Splunk](https://img.shields.io/badge/-Splunk-05122A?style=flat&logo=Splunk)&nbsp;
 ![Azure Sentinel](https://img.shields.io/badge/-Azure%20Sentinel-05122A?style=flat&logo=azuresentinel)&nbsp;
 ![Qualys](https://img.shields.io/badge/-Qualys-05122A?style=flat&logo=Qualys)&nbsp;
 
