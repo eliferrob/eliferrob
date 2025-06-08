@@ -36,7 +36,7 @@ const eliferrob = {
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=Jira)&nbsp;
 ![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=PowerBI)&nbsp;
 ![Splunk](https://img.shields.io/badge/-Splunk-05122A?style=flat&logo=Splunk)&nbsp;
-![Azure Sentinel](https://img.shields.io/badge/-Azure%20Sentinel-05122A?style=flat&logo=azuresentinel)&nbsp;
+![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft%20Sentinel-05122A?style=flat&logo=MicrosoftSentinel)&nbsp;
 ![Qualys](https://img.shields.io/badge/-Qualys-05122A?style=flat&logo=Qualys)&nbsp;
 
 ### 🛠 Programming Languages and Tools
