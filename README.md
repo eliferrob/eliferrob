@@ -2,8 +2,8 @@
 
 ### This is Eli
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/eliferrob)
+[![Gitbook](https://img.shields.io/badge/-Gitbook-000?style=flat&logo=Gitbook&logoColor=white)](https://eliferrob.gitbook.io/eliferrob)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eli-fernandez-robles)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eliferrob@gmail.com)
 
 Welcome to my Github page! I ~usually~ upload things here.
 
