@@ -20,14 +20,9 @@ const eliferrob = {
 - Obtener la certificación eJPTv2
 - Seguir explotando VMs y hacer CTFs
 
-### 💼 Experiencia
+### 💻 Proyectos futuros
 
--  Prácticas de empresa en Accenture como *Analista SOC N1*
--  Prácticas de empresa en E-ASY como *Técnico de Soporte*
-
-### 💻 Proyectos 
-
-- Crear mi GitBook personal --> Migrar mis repositorios 🚀
+- Ninguno por ahora
 
 ### 🔎 Tecnologías SOC
 
