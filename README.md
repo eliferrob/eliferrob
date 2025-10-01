@@ -21,14 +21,9 @@ const eliferrob = {
 - Obtain my eJPTv2 certification
 - Keep exploiting VMs in CTFs
 
-### 💼 Experience
+### 💻 Future projects 
 
--  Business practices on Accenture as *SOC Analyst L1*
--  Business practices on E-ASY as *Helpdesk*
-
-### 💻 Projects 
-
-- Create my personal GitBook --> Migrate my repos 🚀
+- None atm
 
 ### 🔎 SOC Technologies
 
