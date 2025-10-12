@@ -12,7 +12,7 @@ const eliferrob = {
   titulo: "Especialista en Ciberseguridad",
   estudios: "Administración de Sistemas Informáticos en Red",
   skills: ["Pentesting","Análisis de Vulnerabilidades","Bastionado de Redes","Respuesta a Incidentes","Análisis Forense"],
-  certificationes: "eJPTv2",
+  certificaciones: ["eJPTv2"],
 }
 ```
 
