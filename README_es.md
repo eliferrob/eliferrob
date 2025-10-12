@@ -3,7 +3,7 @@
 ### Soy Eli
 [![Gitbook](https://img.shields.io/badge/-Gitbook-000?style=flat&logo=Gitbook&logoColor=white)](https://eliferrob.gitbook.io/eliferrob)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=inVision&logoColor=white)](https://www.linkedin.com/in/eli-fernandez-robles)
-[![INE](https://img.shields.io/badge/-INE-red?style=flat&logo=linuxfoundation&logoColor=white)](https://www.linkedin.com/in/eli-fernandez-robles)
+[![INE](https://img.shields.io/badge/-INE-red?style=flat&logo=linuxfoundation&logoColor=white)](https://certs.ine.com/430647de-362a-4fb5-9342-05ef4d7670c5)
 
 ¡Bienvenido a mi página de Github! ~Normalmente~ subo cosas.
 
