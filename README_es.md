@@ -1,7 +1,6 @@
 # <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px"> ¡Hola mundo!
 
 ### Soy Eli
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/eliferrob)
 [![Gitbook](https://img.shields.io/badge/-Gitbook-000?style=flat&logo=Gitbook&logoColor=white)](https://eliferrob.gitbook.io/eliferrob)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eli-fernandez-robles)
 
@@ -17,8 +16,7 @@ const eliferrob = {
 
 ### 🌱 Cosas en las que estoy trabajando actualmente
 
-- Obtener la certificación eJPTv2
-- Seguir explotando VMs y hacer CTFs
+- Aprender a analizar malware en aplicaciones Android
 
 ### 💻 Proyectos futuros
 
