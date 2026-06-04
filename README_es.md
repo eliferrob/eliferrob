@@ -12,18 +12,23 @@ const eliferrob = {
   titulo: "Especialista en Ciberseguridad",
   estudios: "Administración de Sistemas Informáticos en Red",
   skills: ["Pentesting","Análisis de Vulnerabilidades","Bastionado de Redes","Respuesta a Incidentes","Análisis Forense"],
-  certificaciones: "eJPTv2",
+  certificaciones: "eJPTv2","CCST",
 }
 ```
 
 ### 🌱 Cosas en las que estoy trabajando
 
 - Profundizar en el análisis de malware en Android e ingeniería inversa
-- Estudiar las tácticas de las amenazas persistentes avanzadas (APT)
-- Construir laboratorios de ciberseguridad
+- Estudiar para la certificación BTL2
+- Construir mi homelab personal
+ 
+### 🛠️ Technical Arsenal
 
-### 🛠️ Arsenal Técnico
+#### > Malware Analysis Lab
 
+![Jadx](https://img.shields.io/badge/-Jadx-05122A?style=flat&logo=Jadx&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=AndroidStudio&logoColor=3DDC84)
+![Caido](https://img.shields.io/badge/-Caido-05122A?style=flat&logo=Caido&logoColor=FF6633)
 #### > Herramientas y Plataformas de Seguridad
 
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kalilinux&logoColor=white)
@@ -77,7 +82,6 @@ const eliferrob = {
 
 <p align="center">
   <a href="https://github.com/eliferrob">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliferrob&show_icons=true&theme=radical&custom_title=My%20GitHub%20Stats&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eliferrob&layout=compact&langs_count=6&theme=radical"/>
   </a>
 </p>
