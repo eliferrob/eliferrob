@@ -13,17 +13,23 @@ const eliferrob = {
   title: "Cybersecurity Specialist",
   education: "Network Computer Systems Administration",
   skills: ["Pentesting","Vulnerability Analysis","Network Hardening","Incident Response","Forensics"],
-  certifications: "eJPTv2",
+  certifications: "eJPTv2","CCST",
 }
 ```
 
 ### 🌱 Things I am currently working on
 
 - Deep diving into Android malware analysis and reverse engineering
-- Studying advanced persistent threats (APT) tactics
-- Building personal security lab environments
-
+- Studying for BTL2 certification
+- Building personal homelab
+- 
 ### 🛠️ Technical Arsenal
+
+#### > Malware Analysis Lab
+
+![Jadx](https://img.shields.io/badge/-Jadx-05122A?style=flat&logo=Jadx&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=AndroidStudio&logoColor=3DDC84)
+![Caido](https://img.shields.io/badge/-Caido-05122A?style=flat&logo=Caido&logoColor=FF6633)
 
 #### > Security Tools & Platforms
 
@@ -78,7 +84,6 @@ const eliferrob = {
 
 <p align="center">
   <a href="https://github.com/eliferrob">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eliferrob&show_icons=true&theme=radical&custom_title=My%20GitHub%20Stats&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eliferrob&layout=compact&langs_count=6&theme=radical"/>
   </a>
 </p>
