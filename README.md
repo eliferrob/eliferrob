@@ -22,7 +22,7 @@ const eliferrob = {
 - Deep diving into Android malware analysis and reverse engineering
 - Studying for BTL2 certification
 - Building personal homelab
-- 
+  
 ### 🛠️ Technical Arsenal
 
 #### > Malware Analysis Lab
