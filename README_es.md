@@ -22,13 +22,14 @@ const eliferrob = {
 - Estudiar para la certificación BTL2
 - Construir mi homelab personal
  
-### 🛠️ Technical Arsenal
+### 🛠️ Arsenal Técnico
 
-#### > Malware Analysis Lab
+#### > Laboratorio de Análisis de Malware
 
 ![Jadx](https://img.shields.io/badge/-Jadx-05122A?style=flat&logo=Jadx&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=AndroidStudio&logoColor=3DDC84)
 ![Caido](https://img.shields.io/badge/-Caido-05122A?style=flat&logo=Caido&logoColor=FF6633)
+
 #### > Herramientas y Plataformas de Seguridad
 
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kalilinux&logoColor=white)
