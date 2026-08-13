@@ -10,32 +10,44 @@ Welcome to my Github page! I ~usually~ upload things here.
 
 ```js
 const eliferrob = {
-  title: "Cybersecurity Specialist",
-  education: "Network Computer Systems Administration",
-  skills: ["Pentesting","Vulnerability Analysis","Network Hardening","Incident Response","Forensics"],
+  title: "Malware Analyst",
+  education: ["Cibersecurity", "Network Computer Systems Administration"],
+  skills: ["Reverse engineering","Forensics","Network Hardening","Incident Response","Pentesting"],
   certifications: "eJPTv2","CCST",
 }
 ```
 
 ### 🌱 Things I am currently working on
 
-- Deep diving into Android malware analysis and reverse engineering
-- Studying for BTL2 certification
+- Deep diving into Android malware analysis, new evasion techniques and cryptography
+- Studying C/C++ and Java
 - Building personal homelab
   
 ### 🛠️ Technical Arsenal
 
 #### > Malware Analysis Lab
 
+![Ghidra](https://img.shields.io/badge/-Ghidra-05122A?style=flat&logo=redragon&logoColor=ED1C24)
+![Frida](https://img.shields.io/badge/-Frida-05122A?style=flat&logo=frida&logoColor=ED1C24)
 ![Jadx](https://img.shields.io/badge/-Jadx-05122A?style=flat&logo=Jadx&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=AndroidStudio&logoColor=3DDC84)
 ![Caido](https://img.shields.io/badge/-Caido-05122A?style=flat&logo=Caido&logoColor=FF6633)
+![HTTP Toolkit](https://img.shields.io/badge/-HTTPToolkit-05122A?style=flat&logo=htop&logoColor=F54927)
+![BurpSuite](https://img.shields.io/badge/-Burp%20Suite-05122A?style=flat&logo=burpsuite&logoColor=FF6633)
 
-#### > Security Tools & Platforms
+#### > Programming & Scripting
+
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=academia)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
+![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell)&nbsp;
+
+#### > Pentesting Tools & Platforms
 
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-05122A?style=flat&logo=metasploit&logoColor=2596CD)
-![BurpSuite](https://img.shields.io/badge/-Burp%20Suite-05122A?style=flat&logo=burpsuite&logoColor=FF6633)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark&logoColor=1679A7)
 ![Nmap](https://img.shields.io/badge/-Nmap-05122A?style=flat&logo=nmap&logoColor=white)
 
@@ -48,15 +60,6 @@ const eliferrob = {
 ![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft%20Sentinel-05122A?style=flat&logo=MicrosoftSentinel)&nbsp;
 ![Qualys](https://img.shields.io/badge/-Qualys-05122A?style=flat&logo=Qualys&logoColor=ED2E26)&nbsp;
 
-#### > Programming & Scripting
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=academia)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
-![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell)&nbsp;
-
 #### > Databases & Query Languages
 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
@@ -68,6 +71,8 @@ const eliferrob = {
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![nginx](https://img.shields.io/badge/-nginx-05122A?style=flat&logo=nginx&logoColor=009639)&nbsp;
+![Apache](https://img.shields.io/badge/-apache-05122A?style=flat&logo=apache&logoColor=D22128)&nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
 
 #### > DevOps & Infrastructure
