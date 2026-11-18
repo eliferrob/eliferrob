@@ -20,7 +20,7 @@ const eliferrob = {
 ### 🌱 Things I am currently working on
 
 - Deep diving into Android malware analysis, new evasion techniques and cryptography
-- Studying C/C++ and Java
+- Study for the PMRP certification
 - Building personal homelab
   
 ### 🛠️ Technical Arsenal
