@@ -96,12 +96,4 @@ const eliferrob = {
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=htmx&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-### ⚙️ Estadísticas de GitHub
-
-<p align="center">
-  <a href="https://github.com/eliferrob">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eliferrob&layout=compact&langs_count=6&theme=radical"/>
-  </a>
-</p>
-
 *--> Leer este documento en otro idioma: [English](https://github.com/eliferrob/eliferrob/blob/main/README.md)*
