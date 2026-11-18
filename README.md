@@ -35,6 +35,17 @@ const eliferrob = {
 ![HTTP Toolkit](https://img.shields.io/badge/-HTTPToolkit-05122A?style=flat&logo=htop&logoColor=F54927)
 ![BurpSuite](https://img.shields.io/badge/-Burp%20Suite-05122A?style=flat&logo=burpsuite&logoColor=FF6633)
 
+#### > Forensics
+
+![DD](https://img.shields.io/badge/-DD-05122A?style=flat&logo=DD&logoColor=FF6633)
+![DC3DD](https://img.shields.io/badge/-DC3DD-05122A?style=flat&logo=DC3DD&logoColor=FF6633)
+![Guymager](https://img.shields.io/badge/-Guymager-05122A?style=flat&logo=Guymager&logoColor=FF6633)
+![FTKImager](https://img.shields.io/badge/-FTKImager-05122A?style=flat&logo=FTKImager&logoColor=FF6633)
+![Magnet Aquire](https://img.shields.io/badge/-Magnet%20Aquire-05122A?style=flat&logo=MagnetAquire&logoColor=FF6633)
+![Volatility](https://img.shields.io/badge/-Volatility-05122A?style=flat&logo=Volatility&logoColor=FF6633)
+![ALEAPP](https://img.shields.io/badge/-ALEAPP-05122A?style=flat&logo=aleapp&logoColor=green)
+
+
 #### > Programming & Scripting
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
@@ -44,13 +55,6 @@ const eliferrob = {
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
 ![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell)&nbsp;
 
-#### > Pentesting Tools & Platforms
-
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-05122A?style=flat&logo=metasploit&logoColor=2596CD)
-![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark&logoColor=1679A7)
-![Nmap](https://img.shields.io/badge/-Nmap-05122A?style=flat&logo=nmap&logoColor=white)
-
 #### > SOC & SIEM Technologies
 
 ![ServiceNow](https://img.shields.io/badge/-Servicenow-05122A?style=flat&logo=Servicenow)&nbsp;
@@ -59,6 +63,14 @@ const eliferrob = {
 ![Splunk](https://img.shields.io/badge/-Splunk-05122A?style=flat&logo=Splunk)&nbsp;
 ![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft%20Sentinel-05122A?style=flat&logo=MicrosoftSentinel)&nbsp;
 ![Qualys](https://img.shields.io/badge/-Qualys-05122A?style=flat&logo=Qualys&logoColor=ED2E26)&nbsp;
+
+
+#### > Pentesting Tools & Platforms
+
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-05122A?style=flat&logo=metasploit&logoColor=2596CD)
+![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark&logoColor=1679A7)
+![Nmap](https://img.shields.io/badge/-Nmap-05122A?style=flat&logo=nmap&logoColor=white)
 
 #### > Databases & Query Languages
 
